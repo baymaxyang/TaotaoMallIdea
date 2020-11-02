@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="taotao-manger-web:Web exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/taotao_manger_web_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="taotao-manager-web/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="taotao-manager-web" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
